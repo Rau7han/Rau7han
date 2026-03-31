@@ -41,7 +41,7 @@
 <td style = "width: 50%;">
   
 ##  📈Dash Board:
-![]([https://count.getloli.com/get/@kmakise.github.readme](https://count.getloli.com/@Raushan?name=Raushan&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
+![](https://count.getloli.com/@Raushan)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rau7han)
