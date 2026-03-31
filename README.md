@@ -1,125 +1,123 @@
-# `kmakise` だよ 🍙
+### kmakise だよ🍙  
+**An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
 
-> **Embedded Software Engineer** — aiming to become a full-stack Hardware + Software Engineer.
+<table>
 
-```
-$ ./engineer --mode=embedded --target=hw-sw-fullstack --status=building
-```
+<tr>
+<td style = "width: 50%;">
 
----
+## 📇 Learning:
 
-## 📡 Currently Learning
+- `StyleGAN`
+- `NXP MCU S32G`,`ESP32`
+- `Motor FOC`
+- `DSP TMS320F28335`
+- `Kernel Linux`
+- `TouchGFX`,`LVGL`
+  
+## 👔 Development Experience
+- Stack
+  - `AGV` ROS Robot, rplidar SLAM, Motor Control
+  - `Screen` LCD, TFT, SEG, Nixie, VFD 
+  - `UAV` Quadrotor,fixedwing
+  - `Sensor` coms, ccd, hall, ir, us, doppler, encoder
+  - `Industrial` PT,LT,TT,FT
+  - `Automotive` CanEGR, MotorControl
+- SoC/MCU/DSP
+  - `ST` STM32 F0/F1/F3/F4/F7/H7/L0/L1/L4
+  - `Allwinner` A20 A33 H3 H5 H6 R16 V3S F1C200
+  - `Rockchip` RK3399 pro RK3288
+  - `Xilinx` ZYNQ 7010 7020
+  - `Altear` MAXII EPM570
+  - `NXP` i.MX6u S32G
+  - `Nordic` NRF52832 BLE5.0 NRF52832 BLE5.1
+  - `TI` CC2530 MSP432 MSP430 TMS320F28335
+  - `ESP` ESP8266 ESP32
+  - `MicrpChip` PIC18 PIC16
+  - `STC` stcXXX
+- IDE
+  - `VS Code`, `VS 2019`,`LabView`, `IDA 7.5`,`Android Studio`
+  - `Keil μVision5`,`IAR System`,`TrueStudio`, `STM32CubeIDE`, `S32 Design Studio`,`Openmv IDE`,`MPLABXIDE`
+  - `Vivado`, `Quartus`,`MatLab 2020`
+- EDA
+  - `Altium Designer`16 17 18 19 20 21
+  - `KiCAD`5.99
+  - `Eagle`7.4
+  - `Allegro`16 17.4
+  - `Proteus`8.5 8.9
+  - `Multisim`14
+- RTOS
+  - `FreeRTOS`
+  - `uC/OS-II`
+- Embedded Graphic Software Framework
+  - `DGUSII Dwin`
+  - `TouchGFX`
+  - `LVGL`
+- Low Layer Communication Protocol
+  - `CAN`, `RS485`, `I2C`, `SPI`, `QSPI`, `UART`, `USB`,`FSMC`
+  
+</td>
+<td style = "width: 50%;">
+  
+##  📈Dash Board:
+![](https://count.getloli.com/get/@kmakise.github.readme)
 
-| Topic | Focus |
-|---|---|
-| `StyleGAN` | Generative image models |
-| `NXP S32G` · `ESP32` | Automotive SoC & IoT deep-dive |
-| `Motor FOC` | Field-oriented motor control |
-| `DSP TMS320F28335` | Real-time signal processing |
-| `Linux Kernel` | Kernel internals & driver development |
-| `TouchGFX` · `LVGL` | Embedded UI frameworks |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmakise&text_color=FFFF00&bg_color=282828&hide=HTML,Tex&layout=compact)](https://kmakise.cn/) 
+  
+[![Kmakise's github stats](https://github-readme-stats.vercel.app/api?username=kmakise&show_icons=true&icon_color=FF8C00&text_color=FFFF00&bg_color=282828&hide_title=true")](https://kmakise.cn/)  
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmakise&theme=monokai)
+ 
+<img src="https://komarev.com/ghpvc/?username=kmakise" alt="kmakise" />  
 
-## 🛠 Development Stack
+## 🛠 Languages and Tools:
 
-### Domains
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=XAML&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Robotics & UAV**
-`AGV / ROS` `rplidar SLAM` `Motor Control` `Quadrotor` `Fixed-Wing UAV`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat-square&logo=Gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-444444?style=flat-square&logo=stack-overflow)
 
-**Display Systems**
-`LCD` `TFT` `SEG` `Nixie` `VFD` `TouchGFX` `LVGL` `DGUS II`
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=Altium-Designer&logoColor=white)
 
-**Industrial & Automotive**
-`PT` `LT` `TT` `FT` `CAN EGR` `Motor FOC` `NXP S32G`
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-444444?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-444444?style=flat-square&logo=android-studio&logoColor=3DDC84)
 
-**Sensors**
-`CCD` `Hall` `IR` `Ultrasonic` `Doppler` `Encoder` `COMS`
+![Adobe Photoshop](https://img.shields.io/badge/-Abode%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Abode%20Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 
-### Languages
+## 💻 Platforms:
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-444444?style=flat-square&logo=android)
+![Linux](https://img.shields.io/badge/-Linux-444444?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-444444?style=flat-square&logo=Ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-444444?style=flat-square&logo=debian&logoColor=A81D33)
+![Windows](https://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=0078D6)
 
-### Low-Level Protocols
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-444444?style=flat-square&logo=Alibaba-Cloud)
+![NGINX](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-`CAN` `RS-485` `I²C` `SPI` `QSPI` `UART` `USB` `FSMC` `BLE 5.0/5.1` `Zigbee`
+![Xilinx](https://img.shields.io/badge/-Xilinx-444444?style=flat-square&logo=Xilinx&logoColor=E01F27)
+![STMicroelectronics](https://img.shields.io/badge/-STMicroelectronics-444444?style=flat-square&logo=STMicroelectronics&logoColor=03234B)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-444444?style=flat-square&logo=Raspberry-Pi&logoColor=C51A4A)
+![Arduino](https://img.shields.io/badge/-Arduino-444444?style=flat-square&logo=Arduino)
 
----
-
-## ⚙️ Silicon — MCU / SoC / DSP / FPGA
-
-| Vendor | Parts |
-|---|---|
-| **STMicroelectronics** | STM32 F0 / F1 / F3 / F4 / F7 / H7 / L0 / L1 / L4 |
-| **Allwinner** | A20 · A33 · H3 · H5 · H6 · R16 · V3S · F1C200 |
-| **Rockchip** | RK3399 Pro · RK3288 |
-| **Xilinx** | ZYNQ 7010 · ZYNQ 7020 |
-| **NXP** | i.MX6U · S32G |
-| **Nordic Semi** | nRF52832 BLE 5.0 · nRF52832 BLE 5.1 |
-| **Texas Instruments** | CC2530 · MSP432 · MSP430 · TMS320F28335 |
-| **Espressif** | ESP8266 · ESP32 |
-| **Microchip** | PIC18 · PIC16 |
-| **Altera** | MAXII EPM570 |
-| **STC** | stcXXX series |
-
-**RTOS:** `FreeRTOS` `µC/OS-II`
-
----
-
-## 🖥 Tools
-
-### IDEs & Compilers
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Keil](https://img.shields.io/badge/Keil%20µVision5-00599C?style=flat-square)
-![IAR](https://img.shields.io/badge/IAR%20Systems-003087?style=flat-square)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![S32 Design Studio](https://img.shields.io/badge/S32%20Design%20Studio-yellow?style=flat-square)
-![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=flat-square&logo=xilinx&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB%202020-EF6C00?style=flat-square)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
-### EDA / PCB
-
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altium-designer&logoColor=white)
-![KiCAD](https://img.shields.io/badge/KiCAD%205.99-314CB0?style=flat-square)
-![Eagle](https://img.shields.io/badge/Eagle%207.4-black?style=flat-square)
-![Allegro](https://img.shields.io/badge/Allegro-EF6C00?style=flat-square)
-![Proteus](https://img.shields.io/badge/Proteus-0F4FA8?style=flat-square)
-![Multisim](https://img.shields.io/badge/Multisim%2014-darkgreen?style=flat-square)
-
-### Platforms & Infra
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=nginx&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
----
-
-## 📈 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmakise&text_color=FFFF00&bg_color=0d0d0f&title_color=4ade80&hide=HTML,Tex&layout=compact&border_color=2a2a32)](https://kmakise.cn/)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmakise&show_icons=true&icon_color=4ade80&text_color=e2e8f0&bg_color=0d0d0f&title_color=4ade80&border_color=2a2a32&hide_title=true)](https://kmakise.cn/)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmakise&theme=monokai)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kmakise&color=4ade80&style=flat-square)
-
----
-
-<sub>🌐 kmakise.cn &nbsp;·&nbsp; Embedded Engineer &nbsp;·&nbsp; HW + SW Full Stack</sub>
+![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white)
+  
+</td>
+</tr>
+</table>  
