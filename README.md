@@ -17,10 +17,10 @@
 - `Sensors` MLX90640 (thermal), IR, MQ gas sensors, Ultrasonic  
 
 - SoC/MCU/DSP
-  - `ST` STM32 series (F0/F1/F3/F4/F7/H7/L0/L1/L4)  
-  - `Nordic` nRF52832 (BLE 5.0/5.1)  
+  - `ST` STM32 series 
   - `ESP` ESP8266, ESP32  
-  - `Microchip` AVR IoT  
+  - `Microchip` AVR IoT
+  - - `Nordic` nRF52832 (BLE 5.0/5.1)
 
 - Development Tools
   - `VS Code`, `Visual Studio`, `STM32CubeIDE`, `LabVIEW`  
