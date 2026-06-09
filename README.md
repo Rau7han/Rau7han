@@ -1,82 +1,125 @@
-### Raushan 
-**An Embedded Hardware Developer. Aim to become a Hardware and Software Full Stack Developer.**
+### Raushan
 
-<table>
+```cpp
+class Raushan {
+public:
+    string role = "Embedded Hardware Developer";
+    string goal = "Full-Stack Embedded Engineer";
 
-<tr>
-<td style = "width: 50%;">
+    vector<string> learning = {
+        "Linux",
+        "TouchGFX",
+        "LVGL"
+    };
+};
+```
 
-## 📇 Learning:
-- `Linux`
-- `TouchGFX`,`LVGL`
-  
-## 👔 Development Experience
+## 🚀 Technical Skills
 
-- `Display Systems` LCD, TFT, OLED, HMI interfaces  
-- `UAV Systems` Quadcopter design INAV   
-- `Sensors` MLX90640 (thermal), IR, MQ gas sensors, Ultrasonic  
+```yaml
+Embedded_Systems:
+  MCU:
+    - STM32 Series
+    - ESP8266
+    - ESP32
+    - AVR IoT
+    - nRF52832
 
-- SoC/MCU/DSP
-  - `ST` STM32 series 
-  - `ESP` ESP8266, ESP32  
-  - `Microchip` AVR IoT
-  - - `Nordic` nRF52832 (BLE 5.0/5.1)
+RTOS:
+  - FreeRTOS
 
-- Development Tools
-  - `VS Code`, `Visual Studio`, `STM32CubeIDE`, `LabVIEW`  
+Display_Systems:
+  - LCD
+  - TFT
+  - OLED
+  - HMI Development
 
-- Hardware Design (EDA)
-  - `EasyEDA`, `Eagle`, `Proteus`  
+Embedded_Graphics:
+  - TouchGFX
+  - LVGL
+```
 
-- RTOS
-  - `FreeRTOS`  
+```yaml
+Communication_Protocols:
+  - UART
+  - SPI
+  - QSPI
+  - I2C
+  - CAN
+  - RS485
+  - USB
 
-- Embedded Graphics
-  - `TouchGFX`, `LVGL`  
+Connectivity:
+  - MQTT
+  - HTTP
+  - Wi-Fi
+  - BLE
+  - LoRa
+  - UWB
+```
 
-- Communication Protocols
-  - `CAN`, `RS485`, `I2C`, `SPI`, `QSPI`, `UART`, `USB`  
+```yaml
+Hardware_Design:
+  EDA_Tools:
+    - EasyEDA
+    - Eagle
+    - Proteus
 
-- IoT & Connectivity
-  - `MQTT`, `HTTP`, `Wi-Fi`, `BLE`, `LoRa`, `UWB`
+Development_Tools:
+  - VS Code
+  - Visual Studio
+  - STM32CubeIDE
+  - LabVIEW
 
-- System Integration
-  - `Hardware–Firmware Integration`, `Debugging`, `Testing`, `Prototyping`  
+System_Integration:
+  - Hardware-Firmware Integration
+  - Prototyping
+  - Testing
+  - Debugging
+```
 
-</td>
-<td style = "width: 50%;">
-  
-##  📈Dash Board:
-![](https://count.getloli.com/@Raushan)
+## 🔬 Project Domains
 
+```json
+{
+  "UAV Systems": [
+    "Quadcopter Design",
+    "INAV Flight Controller"
+  ],
+  "Sensors": [
+    "MLX90640 Thermal Sensor",
+    "Infrared Sensors",
+    "MQ Gas Sensors",
+    "Ultrasonic Sensors"
+  ]
+}
+```
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rau7han)
- 
-<img src="https://komarev.com/ghpvc/?username=rau7han" />  
+## 💻 Languages
 
-## 🛠 Languages and Tools:
+```c
+const char* languages[] = {
+    "C",
+    "C++",
+    "Python",
+    "HTML",
+    "CSS"
+};
+```
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+## 🖥 Platforms
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+```bash
+Linux
+Windows
+Raspberry Pi
+Arduino
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat-square&logo=Gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-444444?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
-
-## 💻 Platforms:
-
-![Linux](https://img.shields.io/badge/-Linux-444444?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-444444?style=flat-square&logo=windows&logoColor=0078D6)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-444444?style=flat-square&logo=Raspberry-Pi&logoColor=C51A4A)
-![Arduino](https://img.shields.io/badge/-Arduino-444444?style=flat-square&logo=Arduino)
-  
-</td>
-</tr>
-</table>  
+```git
+Skills += Embedded Systems;
+Skills += IoT;
+Skills += Hardware Design;
+Skills += Firmware Development;
+Skills += Embedded Graphics;
+```
