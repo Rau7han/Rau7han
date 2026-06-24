@@ -1,18 +1,3 @@
-### Raushan
-
-```cpp
-class Raushan {
-public:
-    string role = "Embedded Hardware Developer";
-    string goal = "Full-Stack Embedded Engineer";
-
-    vector<string> learning = {
-        "Linux",
-        "TouchGFX",
-        "LVGL"
-    };
-};
-```
 
 ## 🚀 Technical Skills
 
